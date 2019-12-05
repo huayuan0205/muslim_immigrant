@@ -1,0 +1,98 @@
+/* image-setting */
+.intro-image {
+    padding: 0em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+.aligncenter {
+    text-align: center;
+}
+.img-container{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.img-caption {
+    font-family: "Roboto Light";
+    font-size:12px;
+    margin-top:0;
+    margin-bottom: 20px;
+    display: block;
+    position: relative;
+    color:#999999;
+}
+.img-source {
+    font-family: "Roboto Regular";
+    font-size:12px;
+    max-width:500px;
+    margin:auto;
+    margin-bottom: 20px;
+    color:#999999;
+}
+.img-title {
+    font-family: "Gill Sans MT";
+    font-size:18px;
+    color:black;
+}
+figure {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* div-setting */
+/* intro section */
+section.intro {
+    text-align: left;
+    margin-left: 22%;
+}
+section.intro h1 {
+    font-family: "Playfair Bold", serif;
+    font-size:35px;
+    margin: 70px auto 5px auto;
+    width: 100%;
+    line-height: 1.2em;
+    font-weight:bold;
+}
+section.intro h2 {
+    font-family: "Baskerville Italic";
+    font-size:30px;
+    margin: 10px auto 20px auto;
+    width: 100%;
+    line-height: 1.2em;
+    color:black;
+}
+section.intro p.author{
+    font-family: "Roboto Bold";
+    font-size:14px;
+    margin: 80px auto 15px auto;
+    width: 100%;
+}
+#date {
+    font-family: "Roboto Light";
+    font-size:14px;
+    margin: 40px auto 5px auto;
+    padding:0 0 0 5px;
+    width: 100%;
+    color:grey;
+}
+
+/* paragraph section */
+section.standar {
+    text-align: left;
+    margin-left: 22%;
+}
+section .article p {
+    /* margin-left: 30%; */
+    max-width: 500px;
+    font-family:"Roboto Light";
+    font-size:14px;
+    text-align: left;
+    line-height: 1.7;
+    /* position: relative; */
+    color: #545454;
+}
+.img-container{
+    margin-top:20px;
+}
